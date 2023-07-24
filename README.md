@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Lazismu Unamin**
 
-- 👨‍💻 All of my projects are available at <a href="haris2303.github.io/harisfolio">haris2303.github.io/harisfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://haris2303.github.io/harisfolio">haris2303.github.io/harisfolio</a>
 
 - 💬 Ask me about **Anything**
 
