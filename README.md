@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haris2303&label=Profile%20views&color=0e75b6&style=flat" alt="haris2303" /> </p>
 
-- 🔭 I have currently created my portfolio [HarisFolio](haris2023.github.io/harisfolio)
-- 
 - 🌱 I’m currently learning **Frameworks**
 
 - 🤝 I’m looking for help with **Lazismu Unamin**
