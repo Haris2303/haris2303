@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haris2303&" alt="haris2303" /></p>
 
-<p style="font-size:10px">Created using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Profile Readme Generator</a></p>
+`<p style="font-size:10px">Created using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Profile Readme Generator</a></p>`
