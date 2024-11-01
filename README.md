@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at <a href="https://haris2303.github.io/harisfolio" target="_blank">haris2303.github.io/harisfolio</a>
+- 👨‍💻 All of my projects are available at <a href="http://haris2303.github.io/02-portfolio" target="_blank">My Portofolio</a>
 
 - 💬 Ask me about **Anything**
 
