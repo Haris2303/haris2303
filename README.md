@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 🤝 I’m looking for help with **Lazismu Unamin**
-
 - 👨‍💻 All of my projects are available at <a href="https://haris2303.github.io/harisfolio" target="_blank">haris2303.github.io/harisfolio</a>
 
 - 💬 Ask me about **Anything**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **haris1230703@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+
+- 🔥 My role models in learning the world of coding are **Web Programming Unpas, Programmer Zaman Now dan Dea Afrizal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
